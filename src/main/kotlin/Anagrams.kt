@@ -16,6 +16,7 @@ class Anagrams {
             }
         }
         return count
+        #anusha changes start here
     }
     #chnages end here
 }
